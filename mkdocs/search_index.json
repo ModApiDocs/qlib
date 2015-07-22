@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "QmunityLib API", 
+            "text": "QmunityLib API\n\n\nWelcome to the API documentation of QmunityLib.", 
             "title": "Home"
         }, 
         {
             "location": "/#qmunitylib-api", 
-            "text": "", 
+            "text": "Welcome to the API documentation of QmunityLib.", 
             "title": "QmunityLib API"
         }
     ]
