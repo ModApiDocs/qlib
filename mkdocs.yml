@@ -1,0 +1,12 @@
+site_name: QmunityLib
+repo_url: https://github.com/ModApiDocs/qlib
+strict: true
+
+markdown_extensions:
+  - smarty
+  - urlize
+  - tables
+  - fenced_code
+
+pages:
+  - Home: index.md
